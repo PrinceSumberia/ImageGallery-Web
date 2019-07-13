@@ -1,3 +1,3 @@
-# ImageGallery-Web
+# Image Gallery
 
-*Simple Image Gallery Website Using Bootstrap 
+Simple Image Gallery Website Using Bootstrap 
